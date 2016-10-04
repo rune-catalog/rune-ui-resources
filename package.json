@@ -2,9 +2,9 @@
   "name": "rune-ui-resources",
   "version": "0.0.1",
   "description": "Static resources for rune-ui",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prepublish": "npm run svg",
+    "svg": "svg-sprite -C svg-config.json img/mana/*.svg img/menu/*.svg"
   },
   "repository": {
     "type": "git",

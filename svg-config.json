@@ -1,0 +1,8 @@
+{
+  "mode": {
+    "symbol": {
+      "dest": "dist",
+      "sprite": "sprites.svg"
+    }
+  }
+}
