@@ -3,4 +3,4 @@
 
 # rune-ui-resources
 
-Static resources for rune-ui
+Static resources for [rune-ui](https://github.com/rune-catalog/rune-ui)
