@@ -1,7 +1,7 @@
 {
   "mode": {
     "symbol": {
-      "dest": "dist",
+      "dest": "dist/img",
       "sprite": "sprites.svg"
     }
   }
