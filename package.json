@@ -1,6 +1,6 @@
 {
   "name": "rune-ui-resources",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Static resources for rune-ui",
   "scripts": {
     "prepublish": "npm run svg",
